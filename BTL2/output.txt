@@ -1,0 +1,27 @@
+MAP:
+         0    1    2    3    4    5    6    7    8    9
+    0    .    .    W    .    W    .    .    .    W    .
+    1    .    .    .    .    .    .    .    .    .    .
+    2   Sh    .    .   SW    .    .    .    .    F    .
+    3    .    .    .   RW    .    .    .    .    .    .
+    4    .    W    .   Wa    .    .    .    .    .    .
+    5    .    .    .    W    .    .    .    .    .    .
+    6    W    .    .    .    .    .    .    .    .    .
+    7    .    .    .    .    .    .    .    .    .    .
+    8    .    .    .    .    .    .    .    .    .    .
+    9    .    .    W    .    .    .    F    .    .    .
+   10    .    .    .    .    .    .    .    .    .    .
+   11    .    .    .    .    F    .    .    .    .    .
+   12   Cr   RC    .    .    .    .    .    .    .    .
+
+INFORMATION: 
+Criminal[index=0;pos=(12,0)]
+Sherlock[index=1;pos=(2,0);moving_rule=ULRLUUDD]___EXP=324;___HP=96;___Bag[count=0;]
+Watson[index=2;pos=(4,3);moving_rule=LDLRLRRLR]___EXP=261;___HP=17;___Bag[count=0;]
+Robot[pos=(12,1);type=C;dist=]___Item=MAGIC_BOOK
+Robot[pos=(3,3);type=W;dist=1]___Item=MAGIC_BOOK
+Robot[pos=(3,3);type=SW;dist=5]___Item=MAGIC_BOOK
+Robot[pos=(3,3);type=W;dist=1]___Item=MAGIC_BOOK
+Robot[pos=(3,3);type=W;dist=1]___Item=MAGIC_BOOK
+Robot[pos=(2,3);type=SW;dist=5]___Item=MAGIC_BOOK
+Robot[pos=(3,3);type=SW;dist=5]___Item=MAGIC_BOOK
